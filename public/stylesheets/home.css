@@ -1,0 +1,27 @@
+body{
+  background-color: #f1f2f6;
+}
+
+.jumbotron{
+  background: url('../images/assetsHome/jakob-owens-NLYW63t_bV4-unsplash.jpg')  center;
+  background-size: 100%;
+  color: #f5f5f5;
+}
+
+
+.shop-link{
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  z-index: 10;
+}
+
+
+.container{
+  margin-top: 30px;
+}
+
+.row{
+  margin-top: 50px;
+}
+
